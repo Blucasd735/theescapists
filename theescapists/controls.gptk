@@ -7,20 +7,20 @@ left_analog_down = s
 left_analog_left = a
 left_analog_right = d
 
-# Botoes principais
+# A e B clicam normalmente na posicao atual do cursor
 a = mouse_left
 b = mouse_right
-x = space
-y = esc
+x = mouse_right
+y = space
 
 # Direcional controla o jogador com WASD
-up = w
+up = 7
 up = repeat
-down = s
+down = 9
 down = repeat
-left = a
+left = 
 left = repeat
-right = d
+right = 
 right = repeat
 
 # Analogico direito controla o cursor do mouse
@@ -30,15 +30,21 @@ right_analog_left = mouse_movement_left
 right_analog_right = mouse_movement_right
 
 # Botoes auxiliares
-start = enter
-l1 = mouse_slow
-r1 = leftshift
-l2 = q
-r2 = e
+start = esc
+select = 8
+
+# L1 e R1 permanecem exatamente como Q e E
+l1 = q
+r1 = e
+
+# L2 diminui e R2 aumenta a selecao numerica de itens entre 1 e 6
+l2 = f11
+r2 = f10
+r3 = mouse_left
 
 # Ajuste do analogico para RK3326
-deadzone_mode = scaled_radial
-deadzone = 2000
+deadzone_mode = sloped_scaled_axial
+deadzone = 5000
 deadzone_scale = 8
 deadzone_delay = 16
 
