@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/the-escapists-cover.png" alt="The Escapists" width="900">
+</p>
+
 <h1 align="center">The Escapists — PortMaster</h1>
 
 <p align="center">
@@ -32,6 +36,12 @@ O port já inicia no **R36S com ArkOS**, mas ainda está em desenvolvimento. Rec
 **The Escapists** é um jogo de estratégia e simulação no qual você vive a rotina de um prisioneiro enquanto planeja sua fuga. Siga os horários da prisão, cumpra tarefas, consiga itens, crie ferramentas, melhore suas habilidades e encontre uma maneira de escapar sem levantar suspeitas.
 
 O jogo original foi desenvolvido pela **Mouldy Toof Studios** e publicado pela **Team17**.
+
+<p align="center">
+  <img src="assets/the-escapists-gameplay.png" alt="Captura de gameplay de The Escapists" width="760">
+  <br>
+  <sub>Captura de gameplay de The Escapists.</sub>
+</p>
 
 ## Estado atual do port
 
@@ -121,6 +131,8 @@ Os scripts, configurações, patches e documentos originais criados especificame
 
 A licença aplica-se somente ao trabalho original deste projeto. Ela não se aplica ao jogo, executáveis, assets, músicas, marcas, Box64, WestonPack ou bibliotecas de terceiros.
 
+As imagens exibidas neste README são usadas apenas para identificar e demonstrar o jogo. Elas pertencem aos seus respectivos proprietários e **não estão cobertas pela Licença MIT** deste projeto.
+
 ## Aviso legal
 
 Este é um projeto de compatibilidade não oficial, criado por fãs. Não possui afiliação, patrocínio, aprovação ou endosso da Mouldy Toof Studios ou da Team17.
@@ -146,6 +158,12 @@ The port currently launches on the **R36S with ArkOS**, but it is still under de
 **The Escapists** is a strategy and simulation game in which you follow the daily routine of a prisoner while planning your escape. Follow the prison schedule, complete jobs, collect items, craft tools, improve your skills, and find a way out without raising suspicion.
 
 The original game was developed by **Mouldy Toof Studios** and published by **Team17**.
+
+<p align="center">
+  <img src="assets/the-escapists-gameplay.png" alt="The Escapists gameplay screenshot" width="760">
+  <br>
+  <sub>The Escapists gameplay screenshot.</sub>
+</p>
 
 ## Current port status
 
@@ -234,6 +252,8 @@ Do not attach original game executables, assets, or other copyrighted files.
 Original scripts, configuration files, patches, and documentation created specifically for this port are licensed under the [MIT License](LICENSE), unless stated otherwise in a file.
 
 This license applies only to the original work in this project. It does not apply to the game, executables, assets, music, trademarks, Box64, WestonPack, or third-party libraries.
+
+The images displayed in this README are used only to identify and demonstrate the game. They belong to their respective owners and are **not covered by this project's MIT License**.
 
 ## Legal notice
 
