@@ -61,6 +61,18 @@ source "$controlfolder/funcs.txt"
 
 get_controls
 
+# GOG_SH_EXTRACTOR_BEGIN
+chmod +x "$GAMEDIR/run-gog-extractor.sh" "$GAMEDIR/gogextract.py" \
+  "$GAMEDIR/nxextract-ui" 2>/dev/null || true
+if ! "$GAMEDIR/run-gog-extractor.sh"; then
+  printf 'ERRO: nao foi possivel extrair o instalador GOG de gamedata. Veja gogextract.log.\n' \
+    > "${CUR_TTY:-/dev/tty0}" 2>/dev/null || true
+  sleep 7
+  pm_finish 2>/dev/null || true
+  exit 1
+fi
+# GOG_SH_EXTRACTOR_END
+
 # --------------------------------------------------
 # CONFERIR OS ARQUIVOS
 # --------------------------------------------------
