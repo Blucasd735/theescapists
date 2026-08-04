@@ -1,0 +1,50 @@
+# The Escapists - PortMaster / GPTOKEYB
+# Primeira configuracao para teste no RG351MP / RK3326
+
+# Analogico esquerdo controla o jogador com WASD
+left_analog_up = w
+left_analog_down = s
+left_analog_left = a
+left_analog_right = d
+
+# Botoes principais
+a = mouse_left
+b = mouse_right
+x = space
+y = esc
+
+# Direcional controla o jogador com WASD
+up = w
+up = repeat
+down = s
+down = repeat
+left = a
+left = repeat
+right = d
+right = repeat
+
+# Analogico direito controla o cursor do mouse
+right_analog_up = mouse_movement_up
+right_analog_down = mouse_movement_down
+right_analog_left = mouse_movement_left
+right_analog_right = mouse_movement_right
+
+# Botoes auxiliares
+start = enter
+l1 = mouse_slow
+r1 = leftshift
+l2 = q
+r2 = e
+
+# Ajuste do analogico para RK3326
+deadzone_mode = scaled_radial
+deadzone = 2000
+deadzone_scale = 8
+deadzone_delay = 16
+
+# L1 reduz temporariamente a velocidade do cursor para clicar com precisao
+mouse_slow_scale = 40
+
+# Repeticao do direcional
+repeat_delay = 300
+repeat_interval = 50
