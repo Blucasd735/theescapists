@@ -27,4 +27,4 @@ The Escapists - ajuste experimental de resolucao 640x480
    "$BOX64" "$GAME"
 
 Esta biblioteca e x86_64 de proposito: ela e carregada dentro do programa
-x86_64 pelo Box64. Nao substitua a SDL2 nem o executavel Chowdren.
+x86_64 pelo Box64.
