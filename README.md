@@ -51,7 +51,7 @@ O jogo original foi desenvolvido pela **Mouldy Toof Studios** e publicado pela *
 - Ambiente gráfico fornecido pelo WestonPack
 - Saída segura para o menu do sistema funcionando
 - Desempenho, interface e integração com o portátil ainda em avaliação
-- Mapeamento dos controles ainda em desenvolvimento
+- Mapeamento inicial dos controles disponível e ainda em ajustes
 - Compatibilidade com outros aparelhos ainda não confirmada
 
 ## Requisitos
@@ -61,6 +61,23 @@ O jogo original foi desenvolvido pela **Mouldy Toof Studios** e publicado pela *
 - WestonPack disponível no sistema
 - Uma cópia legal da versão Linux de **The Escapists**
 - Espaço livre suficiente para o port e os arquivos do jogo
+
+## Controles
+
+| Controle | Função |
+| --- | --- |
+| **Analógico esquerdo** | Movimenta o personagem |
+| **Analógico direito** | Movimenta o cursor do mouse |
+| **D-Pad para baixo** | Abre o menu de criação (Craft) |
+| **D-Pad para cima** | Abre os itens equipados |
+| **R1** | Interage com os personagens |
+| **R1 / L1** | Interagem com os aparelhos da academia |
+| **R2 / L2** | Alternam os itens na mochila |
+| **Y** | Entra no modo de ataque |
+| **B** | Pega itens |
+| **A** | Interage com itens |
+
+> **Atenção:** para usar **A** ou **B**, posicione primeiro o cursor do mouse sobre o objeto desejado.
 
 ## Instalação para testes
 
@@ -173,7 +190,7 @@ The original game was developed by **Mouldy Toof Studios** and published by **Te
 - Graphical environment provided by WestonPack
 - Safe exit back to the system menu is working
 - Performance, interface, and handheld integration are still being evaluated
-- Controller mapping is still under development
+- Initial controller mapping is available and still being adjusted
 - Compatibility with other devices has not yet been confirmed
 
 ## Requirements
@@ -183,6 +200,23 @@ The original game was developed by **Mouldy Toof Studios** and published by **Te
 - WestonPack available on the system
 - A legally obtained Linux copy of **The Escapists**
 - Enough free storage for the port and game files
+
+## Controls
+
+| Control | Function |
+| --- | --- |
+| **Left analog stick** | Moves the character |
+| **Right analog stick** | Moves the mouse cursor |
+| **D-Pad Down** | Opens the Craft menu |
+| **D-Pad Up** | Opens the equipped items |
+| **R1** | Interacts with characters |
+| **R1 / L1** | Interact with the gym equipment |
+| **R2 / L2** | Cycle through backpack items |
+| **Y** | Enters attack mode |
+| **B** | Picks up items |
+| **A** | Interacts with items |
+
+> **Important:** before using **A** or **B**, position the mouse cursor over the desired object.
 
 ## Test installation
 
