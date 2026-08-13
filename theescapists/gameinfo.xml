@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./The Escapists</path>
+    <name>The Escapists</name>
+    <desc>In The Escapists, the player, who assumes the role of a prisoner, must escape from six primary prisons that progress in difficulty. Each time a prison is escaped the next prison is unlocked.</desc>
+    <releasedate>20150213T000000</releasedate>
+    <developer>Mouldy Toof Studios</developer>
+    <publisher>Team17</publisher>
+    <genre>Action, Adventure, Simulation</genre>
+    <image>./theescapists/cover.png</image>
+  </game>
+</gameList>

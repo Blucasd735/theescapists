@@ -1,0 +1,49 @@
+{
+  "version": 4,
+  "name": "The Escapists v1.1",
+  "items": [
+    "The Escapists",
+    "theescapists"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "The Escapists",
+    "porter": [
+      "Blucasd735"
+    ],
+    "desc": "The Escapists is a strategy and simulation game in which you follow the daily routine of a prisoner while planning your escape. Follow the prison schedule, complete jobs, collect items, craft tools, improve your skills, and find a way out without raising suspicion.",
+    "desc_md": null,
+    "inst": "1 - Legally purchase and download the Linux version of The Escapists from GOG.\n2 - Place the downloaded GOG installer (.sh) inside: ports/theescapists/gamedata \n3 - Launch The Escapists from the Ports section.\n4 - The port will automatically detect and extract the installer.\n5 - Wait for the process to finish. The game will start automatically.",
+    "inst_md": null,
+    "genres": [
+      "action",
+      "adventure",
+      "simulation",
+      "strategy"
+    ],
+    "image": null,
+    "rtr": false,
+    "exp": false,
+    "runtime": [
+      "weston_pkg_0.2.squashfs"
+    ],
+    "store": [
+      {
+        "name": "GOG",
+        "gameurl": "https://www.gog.com/en/game/the_escapists",
+        "developerurl": "https://www.team17.com/"
+      },
+      {
+        "name": "",
+        "gameurl": "",
+        "developerurl": ""
+      }
+    ],
+    "availability": "paid",
+    "reqs": [],
+    "arch": [
+      "x86_64"
+    ],
+    "min_glibc": ""
+  }
+}
